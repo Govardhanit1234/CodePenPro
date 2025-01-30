@@ -78,7 +78,7 @@ Ensure you have the following installed on your machine:
 ## Screenshots
 
 ### *1. Code Editor Page*
-![User Management Page](./assets/code-editor.jpg)
+![User Management Page](./assets/code-editor.jpeg)
 
 
 
