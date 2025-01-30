@@ -1,70 +1,80 @@
-# Getting Started with Create React App
+# React CodePen Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
 
-## Available Scripts
+React CodePen Clone is a web-based code editor that allows users to write and preview HTML, CSS, and JavaScript in real time. This project aims to provide an intuitive and efficient environment for developers to experiment with front-end code and see immediate results.
+## Features
 
-In the project directory, you can run:
+### 1. Real-time code preview
+- Instantly see the output as you write HTML, CSS, and JavaScript.
 
-### `npm start`
+### 2. Separate code editors
+- Organized editors for HTML, CSS, and JavaScript with syntax highlighting.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 3. Code execution
+- Runs JavaScript code dynamically within the browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 4. Responsive layout
+- Ensures an optimal experience across various screen sizes.
 
-### `npm test`
+### 5. Local storage support
+- Saves code automatically so users can continue their work later.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## Installation
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- To set up the project locally, follow these steps:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## How to Run
 
-### `npm run eject`
+### 1. Prerequisites
+Ensure you have the following installed on your machine:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Node.js (LTS version recommended)
+- npm (comes with Node.js)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 2. Installation
+1. Clone the repository:
+  
+   git clone https://github.com/Govardhanit1234/CodePenPro.git
+2. Navigate to the project directory:
+ 
+   cd react-codepen-clone
+3. Install dependencies:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+   npm install
+4.  Start the development server:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+   npm start
 
-## Learn More
+### 3. Usage
+- Write your HTML, CSS, and JavaScript code in the respective editor sections.
+- The output updates in real-time as you type.
+- Your work is saved in local storage, allowing you to pick up where you left off.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### 4. Technologies Used
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. React.js 
+  Front-end library for building UI components
 
-### Code Splitting
+2. CodeMirror
+  Syntax highlighting and code editor support
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+3. React.js
+   Styling the user interface
 
-### Analyzing the Bundle Size
+4. React.js 
+  Dynamic behavior and interactivity
+  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+## Screenshots
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### *1. Code Editor Page*
+![User Management Page](./assets/code-editor.jpg)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
