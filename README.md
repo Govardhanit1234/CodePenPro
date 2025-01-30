@@ -57,19 +57,19 @@ Ensure you have the following installed on your machine:
 
 ### 4. Technologies Used
 
-###1. React.js 
+### 1. React.js 
 
 - Front-end library for building UI components
 
-###2. CodeMirror
+### 2. CodeMirror
 
 - Syntax highlighting and code editor support
 
-3. React.js
+### 3. React.js
 
 - Styling the user interface
 
-4. React.js 
+### 4. React.js 
 
 - Dynamic behavior and interactivity
   
